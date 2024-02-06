@@ -4,7 +4,6 @@ def palindrome(raw_input):
     return x == raw_input
 
 
-#YOUR CODE GOES HERE
-
-### raw_input = input()
-### print(palindrome(raw_input))
+if __name__ == '__main__': 
+    #REMOVE PASS AND YOUR CODE GOES HERE
+    pass
