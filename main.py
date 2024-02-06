@@ -6,5 +6,5 @@ def palindrome(raw_input):
 
 #YOUR CODE GOES HERE
 
-raw_input = input()
-print(palindrome(raw_input))
+### raw_input = input()
+### print(palindrome(raw_input))
